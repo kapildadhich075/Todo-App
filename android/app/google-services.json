@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1095824233901",
+    "project_id": "self-todo",
+    "storage_bucket": "self-todo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095824233901:android:443e6215ccb3bc13fbbd24",
+        "android_client_info": {
+          "package_name": "com.kapildad.self_todo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1095824233901-nml1a8na4n4vrln9cv30e7jqqb16pu5s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDa0RXP5ztl2-ARsf2IEbtwHlPVky370r0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1095824233901-nml1a8na4n4vrln9cv30e7jqqb16pu5s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
